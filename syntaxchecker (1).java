@@ -1,8 +1,7 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name - Nathan Carrillo
-
+//Name -Jacob Dovalina
 import java.util.Stack;
 
 public class SyntaxChecker {
